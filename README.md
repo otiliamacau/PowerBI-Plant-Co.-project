@@ -1,6 +1,6 @@
 Here you can find 2 projects in PowerBI.
 
-The survey project isn't to complex. This repository contains a comprehensive Power BI analysis based on a global survey of data professionals (Data Scientists, Analysts, Engineers, etc.).
+The survey project is a fundamental Power BI showcase, designed to demonstrate clean data modeling, basic DAX calculations, and effective dashboard layout principles. This repository contains a comprehensive Power BI analysis based on a global survey of data professionals (Data Scientists, Analysts, Engineers, etc.).
 The goal of this project was to uncover trends in the data industry regarding compensation, work-life balance, and technical preferences across different demographics.
 
 The performance report project is more complex. This Power BI project provides a comprehensive financial performance analysis for Plant Co., a global supplier.
