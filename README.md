@@ -1,12 +1,12 @@
 Plant Co. - Financial Performance Report
 
-• Project Overview
+**Project Overview**
 
 This Power BI project provides a comprehensive financial performance analysis for Plant Co., a global supplier. The dashboard compares Key Performance Indicators (KPIs) between the selected year and the previous year (PY), enabling stakeholders to track growth or decline across regions and product categories.
 
 The primary goal of this report is to transform raw financial data into actionable insights regarding profitability and market expansion.
 
-• Tech Stack & Skills
+**Tech Stack & Skills**
 
 Data Transformation: Power Query (ETL) for data cleaning, unpivoting, and attribute formatting.
 
@@ -14,7 +14,7 @@ DAX (Data Analysis Expressions): Developed advanced measures for Time Intelligen
 
 Data Visualization: Applied data storytelling principles using conditional formatting, dynamic slicers, waterfall chart, treemap, scatter chart, line and stacked column chart.
 
-• Key Features & Business Insights
+**Key Features & Business Insights**
 Year-over-Year (YoY) Analysis: Automated comparison of Sales, Quantity, and Gross Profit against the previous period.
 
 Dynamic Filtering: Interactive slicing by year and KPIs.
@@ -23,7 +23,7 @@ Performance Scorecards: High-level KPI cards that provide an instant snapshot of
 
 Trend Identification: Visual representation of monthly performance to spot seasonal patterns in the global supply chain.
 
-• Data Modeling & DAX Showcase
+**Data Modeling & DAX Showcase**
 
 The project relies on a robust data model centered around a Date Dimension to ensure accurate time-based calculations.
 
@@ -42,7 +42,7 @@ CALENDAR(
 )
 <img width="1774" height="800" alt="Screenshot 2026-01-30 103322" src="https://github.com/user-attachments/assets/8b0ceab5-39b4-4f6c-b7ce-92d53695f7f0" />
 
-• How to Access
+**How to Access**
 
 Clone this repository or download the .pbix file.
 
