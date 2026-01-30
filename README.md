@@ -1,4 +1,4 @@
-Plant Co. - Financial Performance Report
+#Plant Co. - Financial Performance Report
 
 **Project Overview**
 
